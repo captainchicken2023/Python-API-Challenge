@@ -83,3 +83,5 @@ Resources:
 - Stack Overflow
 - AskBCS
 - Class Office hours
+- Geoapify
+- https://discourse.holoviz.org/t/add-an-extra-field-when-hovering-in-hvplot-scatter/2331
