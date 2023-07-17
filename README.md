@@ -80,3 +80,6 @@ Add the hotel name and the country as additional information in the hover messag
 
 
 Resources:
+- Stack Overflow
+- AskBCS
+- Class Office hours
